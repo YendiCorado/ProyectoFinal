@@ -1,0 +1,30 @@
+1.	El usuario activa su computadora. 
+2.	Abre el navegador de preferencia.
+3.	En la barra de URL, busca la página de seguros TK-U.
+4.	Presiona Clic sobre la página. 
+5.	Ingresa la persona al sistema de la empresa Seguros TK-U para realizar la cotización de un seguro.
+6.	El sistema pide registrar el nombre de la persona interesada. 
+7.	El usuario ingresa su nombre.
+8.	El sistema solicitara registrar la edad del interesado. 
+9.	El usuario ingresa su edad.
+10.	Se le pregunta sobre su estado civil: 
+11.	Sí está casado:
+	a.	Se le solicita el nombre de su cónyuge.
+	b.	El usuario ingresa el nombre de su conyugue. 
+	c.	El sistema solicitara el registro de la edad de su conyugue. 
+	d.	El usuario ingresa la edad.
+	e.	Dependiendo de la edad del conyugue se agregará un recargo definidos de la siguiente manera: 
+		i.	De 18 años a 24 años = 10%
+		ii.	De 25 años a 49 años = 20%
+		iii.	De 50 años en adelante = 30%
+12.	Si no está casado, continua con la siguiente cuestionaste. 
+13.	Se le pregunta si tiene hijos.
+14.	De ser una respuesta positiva, el usuario ingresa la cantidad de hijos que tiene. 
+	a.	Por cada hijo que el usuario ingrese, se realizará un recargo detallado de la siguiente manera: 
+		i.	Por cada hijo = 20%
+15.	De no tener hijos, continua la cotización sin recargos adicionales. 
+16.	El sistema realiza un cálculo basado en la información ingresada por el usuario. 
+17.	Se le presenta al usuario un total de cotización, sobre el costo base del seguro más los recargos aplicados. 
+18.	Se le pregunta si desea una cotización: 
+	a.	Sí el usuario así lo desea, se reinicia el proceso desde el paso No. 6
+19.	De ser una respuesta negativa, finaliza la cotización.

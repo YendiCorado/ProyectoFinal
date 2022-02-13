@@ -1,0 +1,6 @@
+Punto No. 1
+En el caso de que una persona desee contratar un seguro, se le indicará que habrá recargos de dinero adicional al costo ya establecido, dependiendo de lo siguiente: 
+•	Edad del contratante
+•	Estado civil 
+•	Hijos
+Dependiendo de la respuesta dada, se realizará una cotización final sobre el recargo, si existiera, para establecer una contratación del servicio. 
